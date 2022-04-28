@@ -72,4 +72,4 @@ export const abi = [{
   "linkReferences": {},
   "deployedLinkReferences": {}
 }];
-export const WHITELIST_CONTRACT_ADDRESS = ' hy';
+export const WHITELIST_CONTRACT_ADDRESS = '0x9E3d0fec13a3f8d8217Ae27Fd640E752A49Fa8B9';
